@@ -1,0 +1,13 @@
+20011 2 Ivanov Ivan Ivanovich
+20005 5 Sharapov Karl Petrovich
+20013 7 Sobolev Vasily Fedotovich
+20024 10 Kozlov Alexandr Vsevolodovich
+20003 3 Karelin Evgeny Vyacheslavovich
+20004 2 Fomin Timyr Danilovich
+20106 5 Orehov Maksim Feliksovich
+20307 7 Vorobyev Agafon Vitalievich
+21008 10 Zaicef Anton Georgevich
+20029 2 Ermakov Semen Adolfovich
+20070 5 Petyhov Rodion Yaroslavovich
+20091 7 Gorshkov Osip Stanislavovich
+20042 10 Pavlov Alan Danilovich
