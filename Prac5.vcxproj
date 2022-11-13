@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="BinFile.h" />
     <ClInclude Include="BinSearchTree.h" />
+    <ClInclude Include="SplaySearchTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

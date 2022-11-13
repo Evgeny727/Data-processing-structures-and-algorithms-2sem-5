@@ -51,10 +51,9 @@ void createTree(Tree* root) {
 
 //вывод дерева прямым обходом
 void print_Tree(Tree* p, int level) {
-    if (p)
-    {
+    if (p) {
         if (level > 0) {
-            for (int i = 0; i < level; i++) cout << "  ";
+            for (int i = 0; i < level; i++) cout << "   ";
         }
         cout << p->key << endl;
         print_Tree(p->left, level + 1);
@@ -122,6 +121,7 @@ Tree* deleteNode(Tree* root, int key) {
 }
 
 void binSearchTreeTest() {
+    cout << "\nТестирование бинарного дерева поиска(задание 1)\n";
     Tree* root = new Tree();
     createTree(root);
     cout << endl;

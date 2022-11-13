@@ -57,7 +57,6 @@ void findedRecord(int offset, int key) {
 }
 
 void testBinTask() {
-    cout << "Тестирование управления бинарным файлом\n";
     if (CreateBinFile("programTextFile.txt", "Data.dat")) {
         cout << "Error";
     }
