@@ -7,7 +7,7 @@ struct Tree {
     Tree() { left = right = nullptr; }
 };
 
-//создание эелемента дерева
+//создание элемента дерева
 Tree* createTreeElement(Tree* element, int key, int index) {
     if (!element) {
         element = new Tree();
